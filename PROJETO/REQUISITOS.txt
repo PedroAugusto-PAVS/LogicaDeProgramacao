@@ -1,0 +1,37 @@
+SISTEMA DE CONTROLE DE HOSPITAL
+
+CADASTRAR MEDICOS:
+
+para cada medico ler:
+Nome 
+RG
+CPF
+TELEFONE
+SEXO
+IDADE
+Especialidade
+
+
+
+CADASTRAR PACIENTES:
+
+para cada paciente ler:
+Nome
+RG
+CPF
+TELEFONE
+SEXO
+IDADE
+Área da consulta que ele quer usar #Exemplo: ginecologista
+
+
+MENU DE OPÇÃO
+
+OPÇÃO 0 = SAIR
+OPÇÃO 1 = CADASTRAR MEDICO
+OPÇÃO 2 = CADASTRAR PACIENTE
+OPÇÃO 3 = DELETAR MEDICO
+OPÇÃO 4 = DELETAR PACIENTE
+OPÇÃO 5 = PRINTAR MEDICOS
+OPÇÃO 6 = PRINTAR PACIENTES
+OPÇÃO 7 = PRINTAR AGENDA DO MEDICO
